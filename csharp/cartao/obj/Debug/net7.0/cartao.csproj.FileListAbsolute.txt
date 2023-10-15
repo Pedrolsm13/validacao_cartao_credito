@@ -1,0 +1,14 @@
+C:\Users\pedro\Workspace\puc_ads\diversos\cartao\bin\Debug\net7.0\cartao.exe
+C:\Users\pedro\Workspace\puc_ads\diversos\cartao\bin\Debug\net7.0\cartao.deps.json
+C:\Users\pedro\Workspace\puc_ads\diversos\cartao\bin\Debug\net7.0\cartao.runtimeconfig.json
+C:\Users\pedro\Workspace\puc_ads\diversos\cartao\bin\Debug\net7.0\cartao.dll
+C:\Users\pedro\Workspace\puc_ads\diversos\cartao\bin\Debug\net7.0\cartao.pdb
+C:\Users\pedro\Workspace\puc_ads\diversos\cartao\obj\Debug\net7.0\cartao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pedro\Workspace\puc_ads\diversos\cartao\obj\Debug\net7.0\cartao.AssemblyInfoInputs.cache
+C:\Users\pedro\Workspace\puc_ads\diversos\cartao\obj\Debug\net7.0\cartao.AssemblyInfo.cs
+C:\Users\pedro\Workspace\puc_ads\diversos\cartao\obj\Debug\net7.0\cartao.csproj.CoreCompileInputs.cache
+C:\Users\pedro\Workspace\puc_ads\diversos\cartao\obj\Debug\net7.0\cartao.dll
+C:\Users\pedro\Workspace\puc_ads\diversos\cartao\obj\Debug\net7.0\refint\cartao.dll
+C:\Users\pedro\Workspace\puc_ads\diversos\cartao\obj\Debug\net7.0\cartao.pdb
+C:\Users\pedro\Workspace\puc_ads\diversos\cartao\obj\Debug\net7.0\cartao.genruntimeconfig.cache
+C:\Users\pedro\Workspace\puc_ads\diversos\cartao\obj\Debug\net7.0\ref\cartao.dll
